@@ -1,0 +1,22 @@
+body{
+background-color: teal;
+}
+h1{
+    font-size: 42px;
+color: white;
+text-align: center;
+margin-top: 200px
+
+;
+}
+label{
+    color: white;
+    font-size: 36px;
+    margin-left: 600px;
+
+}
+#flm {
+    width: 200px;
+    background-color: springgreen;
+    color: white;
+}

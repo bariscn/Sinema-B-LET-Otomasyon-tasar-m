@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(blue-wallpaper-2680270.jpg);
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+.name{
+    font-size: 25px;
+    color: white;
+}
+h1{
+    color: white;
+    font-size: 32px;
+    margin-left: 800px;
+    margin-top: 10px;
+}
+label{
+    color: white;
+    font-size: 48px;
+    margin-left: 200px;
+    
+}
+#btn1,#btn2,#btn3,#btn4,#btn5{
+    width: 60px;
+    height: 60px;
+    border-radius: 4px;
+    background-color: grey;
+    color: white;
+    margin-left: 50px;
+    margin-top: 100px;
+    
+}
+#btn6{
+    width: 60px;
+    height: 60px;
+    border-radius: 4px;
+    background-color: grey;
+    color: white;
+    margin-left: 50px;
+    margin-top: 50px;
+}

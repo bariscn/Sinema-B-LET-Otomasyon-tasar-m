@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(yellow-and-pink-lighted-x-decor-1964471\ \(2\).jpg);
+}
+h1{
+    color: white;
+    margin-left: 1100px;
+    margin-top: 300px;
+}
+.custom-select{
+    background-color: bla;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: black;
+    width: 300px;
+    margin-left: 1100px;
+    margin-top: 30px;
+}
+.seans{
+    margin-top: 80px;
+}
+.btn1{
+    width: 150px;
+    font-size: 28px;
+    background-color: #007bff;
+    color: white;
+    margin-left: 1200px;
+    margin-top: 50px;
+    border-radius: 4px;
+    border-color: #007bff;
+    border-style: solid 3px;
+}
+.btn1:hover{
+    background-color: #17a2b8;
+    color: white;
+}

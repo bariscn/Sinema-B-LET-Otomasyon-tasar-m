@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    
+    background-image: url(yellow-and-pink-lighted-x-decor-1964471\ \(2\).jpg);
+    font-family: 'Open Sans', sans-serif;
+    
+}
+h1{
+    font-size: 48px;
+    color: white;
+    margin-left: 900px;
+    margin-top: 400px;
+}
+.btn{
+    width: 150px;
+    height: 50px;
+    background-color: cornflowerblue;
+    color: white;
+    font-size: 25px;
+    border-radius: 3px ;
+    border-color:cornflowerblue;
+    margin-left: 900px;
+}
